@@ -1,2 +1,4 @@
 # firstrepo
-this is my first repo
+
+This is my first repository.  
+Created by **Aditya Tiwari**.
